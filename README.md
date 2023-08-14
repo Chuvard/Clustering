@@ -32,9 +32,9 @@ To successfully run this project you have to do the following steps:
 
 	Step 1. Run the "Clustering" Jupyter Notebook file on your PC/Notebook.
 
-	Step 2. Import all required libraries and data frames from the Sections "Importing modules".
+	Step 2. Import all required libraries and data frames from the Section "Importing modules".
 
-	Step 3. Import the dataset. Run the cell of the "Dataset" Section for corresponding part of project to get previously mentioned project goals due to Clustering model execution.
+	Step 3. Import the dataset. Run the cell of the "Dataset" Section for the corresponding part of a project to get the previously mentioned project goals due to the Clustering model execution.
 
 	Step 4. Run each cell with Python code within the Jupyter Notebook file sequentially following the instructions. Moreover, get familiar with a theoretical background and comprehensive interpretations of the employed Machine Learning Model to execute the goals of the underlying problem statement.
 
